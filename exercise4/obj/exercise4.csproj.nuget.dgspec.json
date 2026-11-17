@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ponpo\\Documents\\labbUppgift\\exercise4\\exercise4.csproj": {}
+    "C:\\Users\\ponpo\\Documents\\GitHub\\Programming-course-C-\\exercise4\\exercise4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ponpo\\Documents\\labbUppgift\\exercise4\\exercise4.csproj": {
+    "C:\\Users\\ponpo\\Documents\\GitHub\\Programming-course-C-\\exercise4\\exercise4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ponpo\\Documents\\labbUppgift\\exercise4\\exercise4.csproj",
+        "projectUniqueName": "C:\\Users\\ponpo\\Documents\\GitHub\\Programming-course-C-\\exercise4\\exercise4.csproj",
         "projectName": "exercise4",
-        "projectPath": "C:\\Users\\ponpo\\Documents\\labbUppgift\\exercise4\\exercise4.csproj",
+        "projectPath": "C:\\Users\\ponpo\\Documents\\GitHub\\Programming-course-C-\\exercise4\\exercise4.csproj",
         "packagesPath": "C:\\Users\\ponpo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ponpo\\Documents\\labbUppgift\\exercise4\\obj\\",
+        "outputPath": "C:\\Users\\ponpo\\Documents\\GitHub\\Programming-course-C-\\exercise4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
